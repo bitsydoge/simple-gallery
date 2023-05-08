@@ -1,0 +1,16 @@
+/* Footer styles */
+
+footer {
+	width: 100%;
+	background-color: var(--main-bg-color);
+	padding: 30px;
+	margin-top: 30px;
+	box-sizing: border-box;
+	text-align: center;
+	box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.5);
+  }
+
+footer p {
+	font-size: 14px;
+	color: #fff;
+}
